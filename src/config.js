@@ -31,12 +31,7 @@ export const config = {
 };
 
 export function isChatAllowed(chatId, chatName) {
-  if (config.allowedChats.length > 0) {
-    return config.allowedChats.includes(chatId);
-  }
-  // Se ALLOWED_CHATS vazio, permite chats privados (não grupos)
-  const isPrivate = chatId && chatId.endsWith('@c.us');
-  return isPrivate;
+  return config.allowedChats.includes(chatId);
 }
 
 export function isPromoChat(chatId) {

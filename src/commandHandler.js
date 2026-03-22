@@ -44,6 +44,6 @@ export async function dispatchCommand(message, chat, chatInfo, fromName) {
       await message.reply("⚠️ Ocorreu um erro interno de servidor ao processar o seu comando. Verifique os logs.");
     }
   } else {
-    await message.reply(`Comando não reconhecido pelo roteador. Digite ${config.commandPrefix}help para acessar a cartilha de comandos.`);
+    console.log(`[IGNORED] Comando não reconhecido ou não permitido: ${config.commandPrefix}${commandName}`);
   }
 }

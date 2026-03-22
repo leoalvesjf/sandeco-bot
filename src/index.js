@@ -58,7 +58,9 @@ client.on('message', async (message) => {
     const fromName = contact.pushname || contact.name || 'Terminal_User';
 
     // Enforcement Estrito do Allowance Map (.ENV)
+    //console.log(JSON.stringify(message._data, null, 2));
     if (!isChatAllowed(chatInfo.id, chatInfo.name)) {
+      console.log(`[BLOCKED] Chat não permitido. ID: ${chatInfo.id} | Nome: ${chatInfo.name} | isGroup: ${chatInfo.isGroup}`);
       return; 
     }
 

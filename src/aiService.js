@@ -51,7 +51,18 @@ Responda APENAS baseando-se no contexto das duas listas acima. Se não souber ac
 
     console.log(`[AI] Solicitando geração via provedor: ${config.aiProvider}...`);
 
-    if (config.aiProvider === 'groq') {
+    if (config.aiProvider === 'anthropic') {
+      // Anthropic API - formato diferente (não OpenAI-compatible)
+      endpoint = 'https://api.anthropic.com/v1/messages';
+      headers['x-api-key'] = config.anthropicKey;
+      headers['anthropic-version'] = '2023-06-01';
+      bodyPayload = {
+        model: config.anthropicModel,
+        max_tokens: config.maxTokens,
+        system: systemPrompt,
+        messages: history.slice(-10),
+      };
+    } else if (config.aiProvider === 'groq') {
       endpoint = 'https://api.groq.com/openai/v1/chat/completions';
       headers['Authorization'] = `Bearer ${config.groqApiKey}`;
       bodyPayload = {
@@ -105,7 +116,9 @@ Responda APENAS baseando-se no contexto das duas listas acima. Se não souber ac
 
     const data = await response.json();
 
-    if (config.aiProvider === 'ollama') {
+    if (config.aiProvider === 'anthropic') {
+      assistantMessage = data.content?.[0]?.text || '';
+    } else if (config.aiProvider === 'ollama') {
       assistantMessage = data.message?.content || '';
     } else {
       assistantMessage = data.choices?.[0]?.message?.content || '';

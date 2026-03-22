@@ -20,6 +20,7 @@ const commands = {
   clear: utils.handleClear,
   history: utils.handleHistory,
   info: utils.handleInfo,
+  groups: utils.handleGroups,
   help: utils.handleHelp
 };
 

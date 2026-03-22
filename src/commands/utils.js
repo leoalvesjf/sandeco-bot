@@ -1,5 +1,6 @@
 import { findLink, getAllLinks, formatLink, formatLinksList } from '../dataManager.js';
 import { clearHistory, getHistorySize } from '../aiService.js';
+import { config } from '../config.js';
 
 export async function handleSearch(message, args) {
   if (args.length === 0) {
@@ -48,6 +49,26 @@ export async function handleInfo(message, args, chat, chatInfo, fromName) {
 }
 
 export async function handleHelp(message, args, chat, chatInfo) {
-  const helpText = `*🤖 Córtex SandecoBot v2.0*\n\n*Inteligência Artificial:*\n!oi <dúvida>ou !o <dúvida> - Inteligência Afetiva (Fofa/Adorável)\n!links <dúvida> - Consulta à Base de Conhecimento e Links via IA\n!ai <dúvida> - Consulta Direta e Formal ao LLM\n\n*Ferramentas Utilitárias:*\n!search <termo> - Busca Textual exata na Base Primitiva\n!sharelink <id> - Mostra Atributos de um Link Cadastrado\n!clear - Esvazia a Memória de Curto Prazo do Chat\n!history - Mostra o Tamanho da Memória de Curto Prazo\n!info - Diagnóstico Local e Dados do SandBox\n!help - Exibe este painel de comandos\n\n*Admin (Grupos Autorizados):*\n!addlink <título> <url> [descrição] - Adiciona Link na Base\n!rmlink <id> - Remove Link da Base`;
+  const helpText = `*🤖 ${config.botName} v2.0*\n\n*Inteligência Artificial:*\n!oi <dúvida>ou !o <dúvida> - Inteligência Afetiva (Fofa/Adorável)\n!links <dúvida> - Consulta à Base de Conhecimento e Links via IA\n!ai <dúvida> - Consulta Direta e Formal ao LLM\n\n*Ferramentas Utilitárias:*\n!search <termo> - Busca Textual exata na Base Primitiva\n!sharelink <id> - Mostra Atributos de um Link Cadastrado\n!clear - Esvazia a Memória de Curto Prazo do Chat\n!history - Mostra o Tamanho da Memória de Curto Prazo\n!info - Diagnóstico Local e Dados do SandBox\n!groups - Lista todos os Grupos com seus IDs\n!help - Exibe este painel de comandos\n\n*Admin (Grupos Autorizados):*\n!addlink <título> <url> [descrição] - Adiciona Link na Base\n!rmlink <id> - Remove Link da Base`;
   await message.reply(helpText);
+}
+
+export async function handleGroups(message, args, chat, chatInfo) {
+  const client = chat.client;
+  const chats = await client.getChats();
+  const groups = chats.filter(c => c.isGroup);
+  
+  if (groups.length === 0) {
+    await message.reply('Nenhum grupo encontrado.');
+    return;
+  }
+  
+  let response = `*📋 Grupos Encontrados (${groups.length}):*\n\n`;
+  groups.forEach((g, i) => {
+    response += `*${i + 1}. ${g.name}*\n`;
+    response += `   ID: \`${g.id._serialized}\`\n\n`;
+  });
+  response += `*Dica:* Copie o ID e adicione em ALLOWED_CHATS no .env`;
+  
+  await message.reply(response);
 }

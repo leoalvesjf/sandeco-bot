@@ -1,0 +1,23 @@
+{
+  "name": "sandeco-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot com IA usando HuggingFace Qwen",
+  "main": "src/index.js",
+  "type": "module",
+  "author": {
+    "name": "Digoo Chakra",
+    "email": "dg@chakra.lol"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "import-history": "node src/importHistory.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "dotenv": "^16.4.7",
+    "mammoth": "^1.12.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.27.0"
+  }
+}

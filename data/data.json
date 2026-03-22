@@ -1,0 +1,650 @@
+{
+  "links": [
+    {
+      "id": 1,
+      "url": "https://github.com/sandeco/prompts",
+      "title": "Repositório de Prompts do Sandeco",
+      "description": "Repositório com prompts otimizados e recursos educacionais."
+    },
+    {
+      "id": 2,
+      "url": "https://github.com/wwebjs/whatsapp-web.js",
+      "title": "whatsapp-web.js",
+      "description": "Biblioteca usada pelo bot para se comunicar com o WhatsApp."
+    },
+    {
+      "id": 3,
+      "url": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
+      "title": "Link do Histórico",
+      "description": "3/19/26, 5:45 PM - +55 55 8426-8947: https://github.com/anthropics/skills/tree/main/skills/skill-creator..."
+    },
+    {
+      "id": 4,
+      "url": "https://www.youtube.com/watch?v=S-uPfrFrO6U",
+      "title": "Link do Histórico",
+      "description": "3/19/26, 6:02 PM - +55 67 9974-8109: https://www.youtube.com/watch?v=S-uPfrFrO6U..."
+    },
+    {
+      "id": 5,
+      "url": "https://www.youtube.com/watch?v=xtVPMNLeJgc",
+      "title": "Link do Histórico",
+      "description": "3/19/26, 6:19 PM - +351 910 386 893: https://www.youtube.com/watch?v=xtVPMNLeJgc veja o video sem saltar nenhuma parte Silvio..."
+    },
+    {
+      "id": 6,
+      "url": "https://opencode.ai/",
+      "title": "Link do Histórico",
+      "description": "3/19/26, 9:06 PM - +55 19 99264-5309: Boa noite, tenha certeza também que baixou o executável do site correto, na dúvida, acesse https://opencode.ai/ ..."
+    },
+    {
+      "id": 7,
+      "url": "https://www.youtube.com/watch?v=xtVPMNLeJgc&t=530s",
+      "title": "Link do Histórico",
+      "description": "3/19/26, 11:11 PM - +55 92 8584-1711: https://www.youtube.com/watch?v=xtVPMNLeJgc&t=530s..."
+    },
+    {
+      "id": 8,
+      "url": "https://github.com/anthropics/skills",
+      "title": "Link do Histórico",
+      "description": "3/19/26, 11:14 PM - +55 19 99264-5309: https://github.com/anthropics/skills..."
+    },
+    {
+      "id": 9,
+      "url": "https://youtu.be/S-uPfrFrO6U",
+      "title": "Link do Histórico",
+      "description": "https://youtu.be/S-uPfrFrO6U..."
+    },
+    {
+      "id": 10,
+      "url": "https://github.com/anthropics/skills/tree/main/skills%2Fskill-creator",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 6:08 AM - +244 931 534 795: https://github.com/anthropics/skills/tree/main/skills%2Fskill-creator..."
+    },
+    {
+      "id": 11,
+      "url": "https://docs.anthropic.com/en/docs/agents-and-tools/claude-code",
+      "title": "Link do Histórico",
+      "description": "    *   [Documentação Oficial Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code)..."
+    },
+    {
+      "id": 12,
+      "url": "https://github.com/openclaw/openclaw",
+      "title": "Link do Histórico",
+      "description": "    *   [OpenClaw GitHub / Documentation](https://github.com/openclaw/openclaw)..."
+    },
+    {
+      "id": 13,
+      "url": "https://docs.anthropic.com/en/docs/agents-and-tools/claude-code",
+      "title": "Link do Histórico",
+      "description": "*   **2. Claude Code (Anthropic):** É uma ferramenta de CLI oficial focada em desenvolvimento de software (automação de código). O link oficial e segu..."
+    },
+    {
+      "id": 14,
+      "url": "https://docs.crewai.com/how-to/Creating-an-Agent/",
+      "title": "Link do Histórico",
+      "description": "*   **3. OpenClaw (Framework):** Capitão, aqui houve a alucinação de *nomenclatura*. O ecossistema de agentes que ele provavelmente está buscando se c..."
+    },
+    {
+      "id": 15,
+      "url": "https://physia.com.br/prompts",
+      "title": "Link do Histórico",
+      "description": "🔗 https://physia.com.br/prompts  ..."
+    },
+    {
+      "id": 16,
+      "url": "https://physia.com.br/guardrails",
+      "title": "Link do Histórico",
+      "description": "🔗 https://physia.com.br/guardrails  ..."
+    },
+    {
+      "id": 17,
+      "url": "https://physia.com.br/python",
+      "title": "Link do Histórico",
+      "description": "🔗 https://physia.com.br/python  ..."
+    },
+    {
+      "id": 18,
+      "url": "https://physia.com.br/crewai1",
+      "title": "Link do Histórico",
+      "description": "🔗 https://physia.com.br/crewai1  ..."
+    },
+    {
+      "id": 19,
+      "url": "https://physia.com.br/crewai2",
+      "title": "Link do Histórico",
+      "description": "🔗 https://physia.com.br/crewai2  ..."
+    },
+    {
+      "id": 20,
+      "url": "https://physia.com.br/mcp/",
+      "title": "Link do Histórico",
+      "description": "🔗 https://physia.com.br/mcp/  ..."
+    },
+    {
+      "id": 21,
+      "url": "https://physia.com.br/rag/",
+      "title": "Link do Histórico",
+      "description": "🔗 https://physia.com.br/rag/  ..."
+    },
+    {
+      "id": 22,
+      "url": "https://physia.com.br/orange",
+      "title": "Link do Histórico",
+      "description": "  🔗 https://physia.com.br/orange..."
+    },
+    {
+      "id": 23,
+      "url": "https://arxiv.org/pdf/2603.14805",
+      "title": "Link do Histórico",
+      "description": "Exemplo rapido: /md --vision https://arxiv.org/pdf/2603.14805..."
+    },
+    {
+      "id": 24,
+      "url": "https://www.instagram.com/p/DV9MSszgAPA/?igsh=MWJ4a2YxdWM2dGRtaQ==)\"",
+      "title": "Link do Histórico",
+      "description": "​(Link sobre agência de mkt de I.A. como referência: https://www.instagram.com/p/DV9MSszgAPA/?igsh=MWJ4a2YxdWM2dGRtaQ==)\" <This message was edited>..."
+    },
+    {
+      "id": 25,
+      "url": "https://youtu.be/yPoSJbLxbS8",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 9:46 AM - +55 12 99148-9188: https://youtu.be/yPoSJbLxbS8..."
+    },
+    {
+      "id": 26,
+      "url": "https://www.youtube.com/watch?v=CWwkWJmT_zU",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 11:22 AM - +55 22 99712-5488: https://www.youtube.com/watch?v=CWwkWJmT_zU..."
+    },
+    {
+      "id": 27,
+      "url": "https://global-billionaires-index.vercel.app/",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 12:34 PM - +63 993 396 6177: https://global-billionaires-index.vercel.app/..."
+    },
+    {
+      "id": 28,
+      "url": "http://github.com/sandeco/prompts",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 12:36 PM - +55 62 9947-6650: http://github.com/sandeco/prompts..."
+    },
+    {
+      "id": 29,
+      "url": "https://www.deeplearning.ai/the-batch/issue-345/",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 12:56 PM - +55 62 9947-6650: /md https://www.deeplearning.ai/the-batch/issue-345/..."
+    },
+    {
+      "id": 30,
+      "url": "https://github.com/sandeco/prompts/tree/main/sandeco-maestro/skills",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 1:07 PM - +55 21 97605-5263: https://github.com/sandeco/prompts/tree/main/sandeco-maestro/skills..."
+    },
+    {
+      "id": 31,
+      "url": "https://github.com/SoftMissT/tudo-sobre-vibe-coding.git",
+      "title": "Link do Histórico",
+      "description": "https://github.com/SoftMissT/tudo-sobre-vibe-coding.git..."
+    },
+    {
+      "id": 32,
+      "url": "https://arxiv.org/abs/2510.04618",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 2:03 PM - +55 11 98372-9429: qm quiser no git q mandei, eu estou usando o conceito do  Boris Cherny https://arxiv.org/abs/2510.04618 junto do..."
+    },
+    {
+      "id": 33,
+      "url": "https://huggingface.co/",
+      "title": "Link do Histórico",
+      "description": "https://huggingface.co/..."
+    },
+    {
+      "id": 34,
+      "url": "https://huggingface.co/joinsecret-x-hf",
+      "title": "Link do Histórico",
+      "description": "https://huggingface.co/joinsecret-x-hf..."
+    },
+    {
+      "id": 35,
+      "url": "https://openrouter.ai/models?max_price=0",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 2:28 PM - +55 27 99273-4130: voce tem que vir nessa pagina aqui: https://openrouter.ai/models?max_price=0..."
+    },
+    {
+      "id": 36,
+      "url": "https://github.com/sandeco",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 4:58 PM - +55 12 99148-9188: https://github.com/sandeco..."
+    },
+    {
+      "id": 37,
+      "url": "https://www.youtube.com/watch?v=S-uPfrFrO6U&t=161s",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 5:18 PM - +55 48 8863-8703: Não encontrei o material específico do vídeo das skills do vídeo https://www.youtube.com/watch?v=S-uPfrFrO6U&t=16..."
+    },
+    {
+      "id": 38,
+      "url": "https://github.com/sandeco/prompts/tree/main/SandeClaw/specs",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 5:50 PM - +55 21 97605-5263: https://github.com/sandeco/prompts/tree/main/SandeClaw/specs..."
+    },
+    {
+      "id": 39,
+      "url": "https://pinokio.co",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 7:08 PM - +55 11 98372-9429: vcs ja chegaram a ver esse ? https://pinokio.co..."
+    },
+    {
+      "id": 40,
+      "url": "https://v0.app",
+      "title": "Link do Histórico",
+      "description": "3/20/26, 8:48 PM - Diogo Chakra: Lovable ou https://v0.app  da Vercel?..."
+    },
+    {
+      "id": 41,
+      "url": "https://www.youtube.com/watch?v=c0nJB1y-SQI",
+      "title": "Link do Histórico",
+      "description": "3/21/26, 12:05 AM - +55 92 8244-2503: boa noite pessoal , alguém tem e pode encaminhar os arquivos do vídeo https://www.youtube.com/watch?v=c0nJB1y-SQ..."
+    },
+    {
+      "id": 42,
+      "url": "https://youtu.be/xtVPMNLeJgc?si=F4rd6WaRwqyeiAPM",
+      "title": "Link do Histórico",
+      "description": "https://youtu.be/xtVPMNLeJgc?si=F4rd6WaRwqyeiAPM..."
+    },
+    {
+      "id": 43,
+      "url": "https://github.com/sandeco/prompts\"",
+      "title": "Link do Histórico",
+      "description": "3/21/26, 6:55 AM - +55 62 9947-6650: loro salva esse link na sua memoria e quando eu pedir \"loro link video sandeco\" voce me entrega esse link raw \"ht..."
+    },
+    {
+      "id": 44,
+      "url": "https://github.com/sandeco/prompts/tree/main/sandeco-maestro",
+      "title": "Link do Histórico",
+      "description": "3/21/26, 7:28 AM - +55 62 9947-6650: https://github.com/sandeco/prompts/tree/main/sandeco-maestro..."
+    },
+    {
+      "id": 45,
+      "url": "https://lesstokens.hive-hub.ai/",
+      "title": "Link do Histórico",
+      "description": "3/21/26, 9:37 AM - +55 49 8803-2247: https://lesstokens.hive-hub.ai/..."
+    },
+    {
+      "id": 46,
+      "url": "https://groups.google.com/g/grupo-de-teste-gama",
+      "title": "Link do Histórico",
+      "description": "Step 1: Enter my Group: https://groups.google.com/g/grupo-de-teste-gama..."
+    },
+    {
+      "id": 47,
+      "url": "https://play.google.com/apps/testing/com.fortiprep.academy",
+      "title": "Link do Histórico",
+      "description": "Step 2: Web: https://play.google.com/apps/testing/com.fortiprep.academy..."
+    },
+    {
+      "id": 48,
+      "url": "https://play.google.com/store/apps/details?id=com.fortiprep.academy",
+      "title": "Link do Histórico",
+      "description": "Step 3: Android: https://play.google.com/store/apps/details?id=com.fortiprep.academy..."
+    },
+    {
+      "id": 49,
+      "url": "https://youtube.com/playlist?list=PLbmt8d_ueDMVdNS63e2VJaq0gXuYxa8un&si=WQ8DW129aZyT6ePN",
+      "title": "Link do Histórico",
+      "description": "3/21/26, 1:22 PM - +55 21 96646-8534: https://youtube.com/playlist?list=PLbmt8d_ueDMVdNS63e2VJaq0gXuYxa8un&si=WQ8DW129aZyT6ePN..."
+    },
+    {
+      "id": 50,
+      "url": "https://www.npmjs.com/package/@hivehub/rulebook",
+      "title": "Link do Histórico",
+      "description": "https://www.npmjs.com/package/@hivehub/rulebook..."
+    },
+    {
+      "id": 51,
+      "url": "https://lesstokens.hive-hub.ai/docs/getting-started/first-api-key",
+      "title": "Link do Histórico",
+      "description": "3/21/26, 1:45 PM - +55 49 8803-2247: https://lesstokens.hive-hub.ai/docs/getting-started/first-api-key..."
+    },
+    {
+      "id": 52,
+      "url": "https://github.com/sickn33/antigravity-awesome-skills/",
+      "title": "Link do Histórico",
+      "description": "3/21/26, 2:21 PM - +55 41 9824-5060: eu uso essas https://github.com/sickn33/antigravity-awesome-skills/..."
+    },
+    {
+      "id": 53,
+      "url": "https://youtu.be/c0nJB1y-SQI",
+      "title": "Link do Histórico",
+      "description": "https://youtu.be/c0nJB1y-SQI..."
+    },
+    {
+      "id": 54,
+      "url": "https://docs.anthropic.com/en/docs/agents-and-tools/claude-code",
+      "title": "Link do Histórico",
+      "description": "    *   [Documentação Oficial Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code)..."
+    },
+    {
+      "id": 55,
+      "url": "https://github.com/openclaw/openclaw",
+      "title": "Link do Histórico",
+      "description": "    *   [OpenClaw GitHub / Documentation](https://github.com/openclaw/openclaw)..."
+    },
+    {
+      "id": 56,
+      "url": "https://docs.anthropic.com/en/docs/agents-and-tools/claude-code",
+      "title": "Link do Histórico",
+      "description": "*   **2. Claude Code (Anthropic):** É uma ferramenta de CLI oficial focada em desenvolvimento de software (automação de código). O link oficial e segu..."
+    },
+    {
+      "id": 57,
+      "url": "https://docs.crewai.com/how-to/Creating-an-Agent/",
+      "title": "Link do Histórico",
+      "description": "*   **3. OpenClaw (Framework):** Capitão, aqui houve a alucinação de *nomenclatura*. O ecossistema de agentes que ele provavelmente está buscando se c..."
+    },
+    {
+      "id": 58,
+      "url": "https://github.com/sandeco/prompts`",
+      "title": "Link do Histórico",
+      "description": "*   **Distribuição de links:** Membros experientes (como Rodrigo Calé) consolidaram o compartilhamento dos repositórios oficiais do GitHub (`https://g..."
+    },
+    {
+      "id": 59,
+      "url": "https://github.com/anthropics/skills`",
+      "title": "Link do Histórico",
+      "description": "*   **Distribuição de links:** Membros experientes (como Rodrigo Calé) consolidaram o compartilhamento dos repositórios oficiais do GitHub (`https://g..."
+    },
+    {
+      "id": 60,
+      "url": "https://ge.globo.com/agenda/#/futebol",
+      "title": "Link do Histórico",
+      "description": "- https://ge.globo.com/agenda/#/futebol..."
+    },
+    {
+      "id": 61,
+      "url": "https://ge.globo.com/futebol/brasileirao-serie-a/",
+      "title": "Link do Histórico",
+      "description": "- https://ge.globo.com/futebol/brasileirao-serie-a/..."
+    },
+    {
+      "id": 62,
+      "url": "https://ge.globo.com/futebol/brasileirao-serie-b/",
+      "title": "Link do Histórico",
+      "description": "- https://ge.globo.com/futebol/brasileirao-serie-b/..."
+    },
+    {
+      "id": 63,
+      "url": "https://github.com/sandeco/prompts/",
+      "title": "Link do Histórico",
+      "description": "3/21/26, 6:35 PM - +55 62 9936-6650: https://github.com/sandeco/prompts/..."
+    },
+    {
+      "id": 64,
+      "url": "https://github.com/astral-sh/uv)**",
+      "title": "Link do Histórico",
+      "description": "*   **O destaque da vez:** O pessoal está discutindo bastante o projeto **[uv](https://github.com/astral-sh/uv)** (da Astral). ..."
+    },
+    {
+      "id": 65,
+      "url": "https://www.virustotal.com",
+      "title": "Link do Histórico",
+      "description": "🛡️ Tenha atenção ao compartilhar links externos e arquivos para evitar links e arquivos maliciosos. Utilize ferramentas como o Antivírus Online Gratu..."
+    },
+    {
+      "id": 66,
+      "url": "https://example.com/ai",
+      "title": "Link do Histórico",
+      "description": "   URL: https://example.com/ai..."
+    },
+    {
+      "id": 67,
+      "url": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
+      "title": "Link do Histórico",
+      "description": "   3/19/26, 5:45 PM - +55 55 8426-8947: https://github.com/anthropics/skills/tree/main/skills/skill-creator......"
+    },
+    {
+      "id": 68,
+      "url": "https://www.youtube.com/watch?v=S-uPfrFrO6U",
+      "title": "Link do Histórico",
+      "description": "   3/19/26, 6:02 PM - +55 67 9974-8109: https://www.youtube.com/watch?v=S-uPfrFrO6U......"
+    },
+    {
+      "id": 69,
+      "url": "https://github.com/sandeco/prompts",
+      "title": "Link do Histórico",
+      "description": "   3/19/26, 10:52 PM - +55 19 99264-5309: https://github.com/sandeco/prompts......"
+    },
+    {
+      "id": 70,
+      "url": "https://www.youtube.com/watch?v=xtVPMNLeJgc&t=530s",
+      "title": "Link do Histórico",
+      "description": "   3/19/26, 11:11 PM - +55 92 8584-1711: https://www.youtube.com/watch?v=xtVPMNLeJgc&t=530s......"
+    },
+    {
+      "id": 71,
+      "url": "https://github.com/anthropics/skills",
+      "title": "Link do Histórico",
+      "description": "   3/19/26, 11:14 PM - +55 19 99264-5309: https://github.com/anthropics/skills......"
+    },
+    {
+      "id": 72,
+      "url": "https://youtu.be/S-uPfrFrO6U",
+      "title": "Link do Histórico",
+      "description": "   https://youtu.be/S-uPfrFrO6U......"
+    },
+    {
+      "id": 73,
+      "url": "https://github.com/anthropics/skills/tree/main/skills%2Fskill-creator",
+      "title": "Link do Histórico",
+      "description": "   3/20/26, 6:08 AM - +244 931 534 795: https://github.com/anthropics/skills/tree/main/skills%2Fskill-creator......"
+    },
+    {
+      "id": 74,
+      "url": "https://docs.anthropic.com/en/docs/agents-and-tools/claude-code",
+      "title": "Link do Histórico",
+      "description": "       *   [Documentação Oficial Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code)......"
+    },
+    {
+      "id": 75,
+      "url": "https://github.com/openclaw/openclaw",
+      "title": "Link do Histórico",
+      "description": "       *   [OpenClaw GitHub / Documentation](https://github.com/openclaw/openclaw)......"
+    },
+    {
+      "id": 76,
+      "url": "https://physia.com.br/orange",
+      "title": "Link do Histórico",
+      "description": "     🔗 https://physia.com.br/orange......"
+    },
+    {
+      "id": 77,
+      "url": "https://arxiv.org/pdf/2603.14805",
+      "title": "Link do Histórico",
+      "description": "   Exemplo rapido: /md --vision https://arxiv.org/pdf/2603.14805......"
+    },
+    {
+      "id": 78,
+      "url": "https://youtu.be/yPoSJbLxbS8",
+      "title": "Link do Histórico",
+      "description": "   3/20/26, 9:46 AM - +55 12 99148-9188: https://youtu.be/yPoSJbLxbS8......"
+    },
+    {
+      "id": 79,
+      "url": "https://www.youtube.com/watch?v=CWwkWJmT_zU",
+      "title": "Link do Histórico",
+      "description": "   3/20/26, 11:22 AM - +55 22 99712-5488: https://www.youtube.com/watch?v=CWwkWJmT_zU......"
+    },
+    {
+      "id": 80,
+      "url": "https://global-billionaires-index.vercel.app/",
+      "title": "Link do Histórico",
+      "description": "   3/20/26, 12:34 PM - +63 993 396 6177: https://global-billionaires-index.vercel.app/......"
+    },
+    {
+      "id": 81,
+      "url": "http://github.com/sandeco/prompts",
+      "title": "Link do Histórico",
+      "description": "   3/20/26, 12:36 PM - +55 62 9947-6650: http://github.com/sandeco/prompts......"
+    },
+    {
+      "id": 82,
+      "url": "https://www.deeplearning.ai/the-batch/issue-345/",
+      "title": "Link do Histórico",
+      "description": "   3/20/26, 12:56 PM - +55 62 9947-6650: /md https://www.deeplearning.ai/the-batch/issue-345/......"
+    },
+    {
+      "id": 83,
+      "url": "https://github.com/sandeco/prompts/tree/main/sandeco-maestro/skills",
+      "title": "Link do Histórico",
+      "description": "   3/20/26, 1:07 PM - +55 21 97605-5263: https://github.com/sandeco/prompts/tree/main/sandeco-maestro/skills......"
+    },
+    {
+      "id": 84,
+      "url": "https://github.com/SoftMissT/tudo-sobre-vibe-coding.git",
+      "title": "Link do Histórico",
+      "description": "   https://github.com/SoftMissT/tudo-sobre-vibe-coding.git......"
+    },
+    {
+      "id": 85,
+      "url": "https://huggingface.co/",
+      "title": "Link do Histórico",
+      "description": "   https://huggingface.co/......"
+    },
+    {
+      "id": 86,
+      "url": "https://huggingface.co/joinsecret-x-hf",
+      "title": "Link do Histórico",
+      "description": "   https://huggingface.co/joinsecret-x-hf......"
+    },
+    {
+      "id": 87,
+      "url": "https://openrouter.ai/models?max_price=0",
+      "title": "Link do Histórico",
+      "description": "   3/20/26, 2:28 PM - +55 27 99273-4130: voce tem que vir nessa pagina aqui: https://openrouter.ai/models?max_price=0......"
+    },
+    {
+      "id": 88,
+      "url": "https://github.com/sandeco",
+      "title": "Link do Histórico",
+      "description": "   3/20/26, 4:58 PM - +55 12 99148-9188: https://github.com/sandeco......"
+    },
+    {
+      "id": 89,
+      "url": "https://www.youtube.com/watch?v=S-uPfrFrO6U&t=16",
+      "title": "Link do Histórico",
+      "description": "   3/20/26, 5:18 PM - +55 48 8863-8703: Não encontrei o material específico do vídeo das skills do vídeo https://www.youtube.com/watch?v=S-uPfrFrO6U&t..."
+    },
+    {
+      "id": 90,
+      "url": "https://github.com/sandeco/prompts/tree/main/SandeClaw/specs",
+      "title": "Link do Histórico",
+      "description": "   3/20/26, 5:50 PM - +55 21 97605-5263: https://github.com/sandeco/prompts/tree/main/SandeClaw/specs......"
+    },
+    {
+      "id": 91,
+      "url": "https://pinokio.co",
+      "title": "Link do Histórico",
+      "description": "   3/20/26, 7:08 PM - +55 11 98372-9429: vcs ja chegaram a ver esse ? https://pinokio.co......"
+    },
+    {
+      "id": 92,
+      "url": "https://www.youtube.com/watch?v=c0nJB1y-SQ",
+      "title": "Link do Histórico",
+      "description": "   3/21/26, 12:05 AM - +55 92 8244-2503: boa noite pessoal , alguém tem e pode encaminhar os arquivos do vídeo https://www.youtube.com/watch?v=c0nJB1y..."
+    },
+    {
+      "id": 93,
+      "url": "https://youtu.be/xtVPMNLeJgc?si=F4rd6WaRwqyeiAPM",
+      "title": "Link do Histórico",
+      "description": "   https://youtu.be/xtVPMNLeJgc?si=F4rd6WaRwqyeiAPM......"
+    },
+    {
+      "id": 94,
+      "url": "https://github.com/sandeco/prompts/tree/main/sandeco-maestro",
+      "title": "Link do Histórico",
+      "description": "   3/21/26, 7:28 AM - +55 62 9947-6650: https://github.com/sandeco/prompts/tree/main/sandeco-maestro......"
+    },
+    {
+      "id": 95,
+      "url": "https://lesstokens.hive-hub.ai/",
+      "title": "Link do Histórico",
+      "description": "   3/21/26, 9:37 AM - +55 49 8803-2247: https://lesstokens.hive-hub.ai/......"
+    },
+    {
+      "id": 96,
+      "url": "https://groups.google.com/g/grupo-de-teste-gama",
+      "title": "Link do Histórico",
+      "description": "   Step 1: Enter my Group: https://groups.google.com/g/grupo-de-teste-gama......"
+    },
+    {
+      "id": 97,
+      "url": "https://play.google.com/apps/testing/com.fortiprep.academy",
+      "title": "Link do Histórico",
+      "description": "   Step 2: Web: https://play.google.com/apps/testing/com.fortiprep.academy......"
+    },
+    {
+      "id": 98,
+      "url": "https://play.google.com/store/apps/details?id=com.fortiprep.academy",
+      "title": "Link do Histórico",
+      "description": "   Step 3: Android: https://play.google.com/store/apps/details?id=com.fortiprep.academy......"
+    },
+    {
+      "id": 99,
+      "url": "https://youtube.com/playlist?list=PLbmt8d_ueDMVdNS63e2VJaq0gXuYxa8un&si=WQ8DW129aZyT6ePN",
+      "title": "Link do Histórico",
+      "description": "   3/21/26, 1:22 PM - +55 21 96646-8534: https://youtube.com/playlist?list=PLbmt8d_ueDMVdNS63e2VJaq0gXuYxa8un&si=WQ8DW129aZyT6ePN......"
+    },
+    {
+      "id": 100,
+      "url": "https://www.npmjs.com/package/@hivehub/rulebook",
+      "title": "Link do Histórico",
+      "description": "   https://www.npmjs.com/package/@hivehub/rulebook......"
+    },
+    {
+      "id": 101,
+      "url": "https://lesstokens.hive-hub.ai/docs/getting-started/first-api-key",
+      "title": "Link do Histórico",
+      "description": "   3/21/26, 1:45 PM - +55 49 8803-2247: https://lesstokens.hive-hub.ai/docs/getting-started/first-api-key......"
+    },
+    {
+      "id": 102,
+      "url": "https://github.com/sickn33/antigravity-awesome-skills/",
+      "title": "Link do Histórico",
+      "description": "   3/21/26, 2:21 PM - +55 41 9824-5060: eu uso essas https://github.com/sickn33/antigravity-awesome-skills/......"
+    },
+    {
+      "id": 103,
+      "url": "https://youtu.be/c0nJB1y-SQI",
+      "title": "Link do Histórico",
+      "description": "   https://youtu.be/c0nJB1y-SQI......"
+    },
+    {
+      "id": 104,
+      "url": "https://www.instagram.com/p/DV9MSszgAPA/?igsh=MWJ4a2YxdWM2dGRtaQ==",
+      "title": "Link do Histórico",
+      "description": "* https://www.instagram.com/p/DV9MSszgAPA/?igsh=MWJ4a2YxdWM2dGRtaQ==..."
+    },
+    {
+      "id": 105,
+      "url": "https://www.youtube.com/results?search_query=Sandeco",
+      "title": "Link do Histórico",
+      "description": "* **Canal Sandeco no YouTube**: https://www.youtube.com/results?search_query=Sandeco..."
+    },
+    {
+      "id": 106,
+      "url": "https://github.com/sandeco/prompts",
+      "title": "Link do Histórico",
+      "description": "3/21/26, 8:41 PM - DG Chakra: Boa noite, meu amor 💖! Estou aqui para ajudar! 🌟 Infelizmente, não encontrei nenhuma informação sobre o \"arquivo do Sa..."
+    }
+  ],
+  "knowledge": [
+    {
+      "id": 1,
+      "content": "O Canal Sandeco AI é focado em inteligência artificial, desenvolvimento e troca de conhecimento tech."
+    },
+    {
+      "id": 2,
+      "content": "Diretriz do Bot: Concentrar e responder tudo baseado no histórico do grupo de IA, nos repositórios oficiais e canais do Professor Sandeco."
+    }
+  ]
+}
